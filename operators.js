@@ -100,9 +100,10 @@ for(let key in erson){
     console.log(`{key}:${erson[key]}`);
 }
 //continue
-let l=9;
+let l=3
 for(let j=0;j<=l;j++){
-    if(j==3){
+    if(j===3){
+
         continue;
     }
     else{
