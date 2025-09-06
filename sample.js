@@ -19,6 +19,7 @@ let person = {
     name: "bhavana",
     age: 19
 };
+console.log(person["name"]);
 console.log(person);
 console.log(person.name);
 console.log(person.age);
